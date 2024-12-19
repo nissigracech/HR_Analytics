@@ -29,8 +29,7 @@ The **HR Analysis** project aims to analyze employee data and performance rating
 - **Power BI**: Building interactive dashboards.
 - **VS Code**: Development environment.
 - **Libraries**:
-  - `pandas` (data handling)
-  - `matplotlib` / `seaborn` (visualizations)
+  - `pandas` (data handling) 
   - `sqlalchemy` (SQL integration)
 
 ---
@@ -46,8 +45,8 @@ Ensure the following tools are installed:
 - Visual Studio Code
 - Power BI Desktop
 - Required Python libraries:
-  --Pandas
-  --sqlalchemcy
+  - `Pandas`
+  - `sqlalchemcy`
   ```
   pip install pandas sqlalchemy
   ```
